@@ -25,7 +25,6 @@ The goal is to display a slide viewer, allow note-taking, and manage navigation 
 - 🧭 Sidebar with tabs: “Insert questions” and “Updated presentation”
 - 📚 Scrollable slide list
 - 💾 Footer with "Save" and "Discard" buttons
-- 🧪 Unit tests included for key components
 
 ## 📁 Project Structure
 
@@ -64,7 +63,6 @@ src/
 
 ### 1. Clone the repository
 
-
 git clone https://github.com/your-username/wooclap-presentation-exercise.git
 
 cd wooclap-1
@@ -78,6 +76,5 @@ cd wooclap-1
 `npm start`
 
 Open http://localhost:3000 to view it in the browser.
-
 
 Happy reviewing!
