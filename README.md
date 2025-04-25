@@ -15,7 +15,6 @@ The goal is to display a slide viewer, allow note-taking, and manage navigation 
 
 - **React** (Create React App)
 - **Tailwind CSS**
-- **Jest** + **React Testing Library** (for unit tests)
 
 ## 🧩 Features
 
