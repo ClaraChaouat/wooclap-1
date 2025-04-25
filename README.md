@@ -8,7 +8,7 @@ Clara Chaouat
 
 This project is a frontend implementation of Wooclap’s **presentation configuration screen**, developed as part of a technical assessment.
 
-It replicates the user interface and component layout as seen in Wooclap’s original application.  
+It replicates the user interface and component layout as seen in Wooclap’s original application.
 The goal is to display a slide viewer, allow note-taking, and manage navigation between slides in an intuitive and accessible layout.
 
 ## 🛠 Tech Stack
@@ -79,8 +79,5 @@ cd wooclap-1
 
 Open http://localhost:3000 to view it in the browser.
 
-## Running tests
-
-`npm test`
 
 Happy reviewing!
